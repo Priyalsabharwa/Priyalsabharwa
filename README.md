@@ -4,7 +4,7 @@
 
 ### Python Developer | Full-Stack Developer
 
-### Full-Stack Development · Python · SQL
+*Full-Stack Development · Python · SQL*
 
 *Designing and developing software applications that solve real-world problems*
 
@@ -14,7 +14,6 @@
   <a href="https://github.com/Priyalsabharwa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-🛒 **Currently building for Flipkart GRiD** — [PROJECT NAME / ONE-LINE DESCRIPTION HERE]
 
 <img src="https://komarev.com/ghpvc/?username=Priyalsabharwa&style=for-the-badge&color=58A6FF" alt="Profile views" />
 
@@ -24,17 +23,17 @@
 
 ## About Me
 
-🎓 B.E./B.Tech Computer Science · [YOUR COLLEGE NAME HERE]
+🎓 B.E. Computer Science · **Chandigarh University**
 🐍 Python Developer with a focus on **Full-Stack Development** and **SQL**
 🚀 Passionate about designing and developing software applications that solve real-world problems
-🌱 Currently sharpening my skills by building practical projects — from chatbots to full-stack platforms
+🌱 Currently building practical projects — from chatbots to full-stack platforms
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,sql,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -64,7 +63,7 @@ A full-stack project showcasing end-to-end web development skills.
 <td width="50%">
 
 ### ⚡ next-platform-starter
-A starter template/platform built for fast, modern web development.
+A starter template built for fast, modern web development.
 
 `JavaScript`
 
@@ -72,7 +71,7 @@ A starter template/platform built for fast, modern web development.
 <td width="50%">
 
 ### 🚀 my-project
-[ADD A ONE-LINE DESCRIPTION OF WHAT THIS PROJECT DOES]
+A JavaScript project focused on building practical web solutions.
 
 `JavaScript`
 
@@ -90,7 +89,7 @@ A starter template/platform built for fast, modern web development.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyalsabharwa&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyalsabharwa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
