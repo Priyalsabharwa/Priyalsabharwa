@@ -1,103 +1,84 @@
 <div align="center">
 
-<h1>Priyal Sabharwal</h1>
-
-### Python Developer | Full-Stack Developer
-
-*Full-Stack Development · Python · SQL*
-
-*Designing and developing software applications that solve real-world problems*
+# Priyal Sabharwal
+### Full-Stack Developer & Python Engineer
+*Building scalable web platforms, practical automation, and clean database architectures.*
 
 <p>
-  <a href="https://www.linkedin.com/in/priyal-sabharwal-07ba58292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL-HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Priyalsabharwa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/priyal-sabharwal-07ba58292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Priyalsabharwa"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL-HERE"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-
-<img src="https://komarev.com/ghpvc/?username=Priyalsabharwa&style=for-the-badge&color=58A6FF" alt="Profile views" />
-
----
+<img src="https://komarev.com/ghpvc/?username=Priyalsabharwa&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
-## About Me
+---
 
-🎓 B.E. Computer Science · **Chandigarh University**
-🐍 Python Developer with a focus on **Full-Stack Development** and **SQL**
-🚀 Passionate about designing and developing software applications that solve real-world problems
-🌱 Currently building practical projects — from chatbots to full-stack platforms
+### 💡 About Me
+
+- 🎓 **Education:** Pursuing B.E. in Computer Science at **Chandigarh University**
+- 💻 **Core Focus:** Full-Stack Web Development, Backend Architecture, and Relational Database Systems (SQL)
+- ⚙️ **Engineering Philosophy:** Writing maintainable, modular code to solve practical problems
+- 🔭 **Current Focus:** Building production-ready full-stack applications, API orchestrations, and interactive tools
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,mysql,html,css,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-### 🥗 CodeAlpha_Healthy-Diet-F
-Your wellness buddy — a chatbot that answers diet FAQs and keeps track of your fitness streaks.
-
-`Python`
-
-</td>
-<td width="50%">
-
-### 💻 full_stack2
-A full-stack project showcasing end-to-end web development skills.
-
-`JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚡ next-platform-starter
-A starter template built for fast, modern web development.
-
-`JavaScript`
-
-</td>
-<td width="50%">
-
-### 🚀 my-project
-A JavaScript project focused on building practical web solutions.
-
-`JavaScript`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥗 CodeAlpha Healthy Diet Bot</h3>
+      <p>An interactive wellness assistant designed to resolve nutrition queries and support habit tracking through persistent streak logging.</p>
+      <code>Python</code> <code>Chatbot</code> <code>Automation</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 full_stack2</h3>
+      <p>An end-to-end web application implementing structured routing, dynamic data management, and responsive front-end components.</p>
+      <code>JavaScript</code> <code>Node.js</code> <code>Full-Stack</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ next-platform-starter</h3>
+      <p>A modular, scalable foundation engineered to accelerate prototyping and production deployments for modern web services.</p>
+      <code>JavaScript</code> <code>Frontend</code> <code>Boilerplate</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 my-project</h3>
+      <p>A focused web solution highlighting component-driven design patterns and responsive state management.</p>
+      <code>JavaScript</code> <code>Web App</code>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyalsabharwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyalsabharwa&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyalsabharwa&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyalsabharwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyalsabharwa&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyalsabharwa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect
+### 🤝 Connect & Collaborate
 
-I'm open to collaborations, internships, and interesting projects — feel free to reach out!
+Actively exploring software engineering opportunities, internships, and open-source collaborations.
 
 </div>
